@@ -1,0 +1,27 @@
+{
+	"experiment": "bc9b82de-ce8f-440d-a3de-3ab636b611d8",
+	"startTime": "2021-12-22T15:27:57.390613Z",
+	"totalCounts": 50000,
+	"numberOfDetectors": 4,
+	"singlePhotonRate": "1500.00",
+	"totalTime": 3,
+	"experimentData": {
+		"countratePerDetector": {
+			"d1": 123,
+			"d2": 123,
+			"d3": 456,
+			"d4": 123,
+			"d5": 123,
+			"d6": 456,
+			"d7": 123,
+			"d8": 123
+		},
+		"coincidenceCounts": 
+		{
+			"c00": 345,
+			"c01": 15064,
+			"c10": 13444,
+			"c11": 99
+		}
+	}
+}
