@@ -1,5 +1,7 @@
 # PhotonQ-postprocessing
 
-https://mybinder.org/v2/gh/zilkf92/PhotonQ-postprocessing.git/main?labpath=postprocessing-script.ipynb
+Follow this link to use the Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zilkf92/PhotonQ-postprocessing.git/main?labpath=postprocessing-script.ipynb)
+https://mybinder.org/v2/gh/zilkf92/PhotonQ-postprocessing/main?labpath=probabilities-histogram.ipynb
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zilkf92/PhotonQ-postprocessing/main?labpath=probabilities-histogram.ipynb)
